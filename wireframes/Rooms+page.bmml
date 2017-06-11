@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1011" measuredH="930" mockupW="1011" mockupH="890">
+  <controls>
+    <control controlID="17" controlTypeID="__group__" x="0" y="40" w="1011" h="890" measuredW="1011" measuredH="890" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="20" y="0" w="490" h="400" measuredW="550" measuredH="363" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <src>./assets/guest-room.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="510" y="400" w="490" h="400" measuredW="936" measuredH="702" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <src>./assets/bedroom-guest-bedroom-design.jpeg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="650" y="37" w="150" h="-1" measuredW="77" measuredH="28" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <align>center</align>
+            <color>2848996</color>
+            <size>20</size>
+            <text>Location</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="48" y="474" w="150" h="-1" measuredW="94" measuredH="28" zOrder="3" locked="false" isInGroup="17">
+          <controlProperties>
+            <align>center</align>
+            <color>2848996</color>
+            <size>20</size>
+            <text>Don%27t%20Miss</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="561" y="81" w="450" h="250" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="17">
+          <controlProperties>
+            <size>18</size>
+            <text>My%20apartment%20is%20located%20right%20in%20the%20heart%20of%20Copacabana%2C%20Rio.%20You%u2019ll%20find%20tons%20of%20amazing%20spots%20to%20eat%20and%20drink%2C%20plus%20transportation%20is%20very%20easy.%20The%20beach%20is%20only%205%20min%20away%20and%20there%20are%20a%20few%20parks%20in%20the%20area.%20If%20you%20ever%20need%20anything%2C%20I%u2019d%20be%20happy%20to%20show%20you%20around%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="21" y="531" w="450" h="250" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="17">
+          <controlProperties>
+            <size>20</size>
+            <text>You%20have%20to%20go%20to%20Boteco%20Belmonte.%20Besides%20the%20amazing%20food%2C%20your%20glass%20will%20never%20ever%20be%20empty%21%20Very%20casual%20%26%20great%20atmosphere%20%3A%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="840" w="1000" h="50" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>0</color>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="39" y="855" w="-1" h="-1" measuredW="327" measuredH="21" zOrder="7" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>16777215</color>
+            <text>%A9%202017%20by%20White%20Sands%20Hotel.%20Proudly%20created%20by%20M.N.K</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

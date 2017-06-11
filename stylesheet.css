@@ -1,0 +1,4 @@
+.navbar{background-color:black; }
+.navbar > a{color: white;}
+@media (min-width: 768px) {.navbar-nav.navbar-center {position: absolute; left: 50%; transform: translatex(-50%);}}
+.jumbotron {background-image: url("images/Beach and Pool_Ultra HD.jpg"); background-size: cover; height: 500px; color:black; text-shadow: #444 0 1px 1px;}

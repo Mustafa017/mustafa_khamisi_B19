@@ -1,0 +1,89 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1004" measuredH="827" mockupW="1000" mockupH="786">
+  <controls>
+    <control controlID="69" controlTypeID="__group__" x="4" y="41" w="1000" h="786" measuredW="1000" measuredH="786" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="34" w="1000" h="50" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="69">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="29" y="50" w="-1" h="-1" measuredW="276" measuredH="19" zOrder="1" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Home%2C%20Our%20Rooms%2C%20Services%2C%20Contact%20Us</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="0" y="113" w="1000" h="500" measuredW="3840" measuredH="2160" zOrder="2" locked="false" isInGroup="69">
+          <controlProperties>
+            <src>./assets/Beach%2520and%2520Pool_Ultra%2520HD.jpg</src>
+            <text>beach%20resort</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="850" y="0" w="-1" h="-1" measuredW="94" measuredH="27" zOrder="3" locked="false" isInGroup="69">
+          <controlProperties>
+            <text>BOOK%20NOW</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="770" y="220" w="220" h="220" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="69">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <color>16777215</color>
+            <text>YOUR%20PRIVATE%20GET%20AWAY</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="663" w="204" h="40" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="69"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="237" y="663" w="204" h="40" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="69"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="39" y="641" w="92" h="-1" measuredW="83" measuredH="21" zOrder="7" locked="false" isInGroup="69">
+          <controlProperties>
+            <text>Check%20in%20Date</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="293" y="640" w="92" h="-1" measuredW="92" measuredH="21" zOrder="8" locked="false" isInGroup="69">
+          <controlProperties>
+            <align>center</align>
+            <text>Check%20out%20Date</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="477" y="640" w="92" h="-1" measuredW="37" measuredH="21" zOrder="9" locked="false" isInGroup="69">
+          <controlProperties>
+            <align>center</align>
+            <text>Adults</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="597" y="641" w="92" h="-1" measuredW="26" measuredH="21" zOrder="10" locked="false" isInGroup="69">
+          <controlProperties>
+            <align>center</align>
+            <text>Kids</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="473" y="663" w="100" h="40" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="69"/>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="597" y="663" w="100" h="40" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="69"/>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="755" y="663" w="150" h="40" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="810" y="674" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="14" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="736" w="1000" h="50" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>0</color>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="39" y="751" w="-1" h="-1" measuredW="327" measuredH="21" zOrder="16" locked="false" isInGroup="69">
+          <controlProperties>
+            <color>16777215</color>
+            <text>%A9%202017%20by%20White%20Sands%20Hotel.%20Proudly%20created%20by%20M.N.K</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

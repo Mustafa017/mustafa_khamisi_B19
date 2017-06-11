@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1021" measuredH="771" mockupW="1018" mockupH="751">
+  <controls>
+    <control controlID="15" controlTypeID="__group__" x="3" y="20" w="1018" h="751" measuredW="1018" measuredH="751" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Map" x="18" y="0" w="1000" h="300" measuredW="252" measuredH="222" zOrder="0" locked="false" isInGroup="15"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="117" y="342" w="200" h="40" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="15"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="39" y="346" w="67" h="-1" measuredW="67" measuredH="21" zOrder="2" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>First%20Name%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="117" y="401" w="200" h="40" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="15"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="39" y="405" w="67" h="-1" measuredW="68" measuredH="21" zOrder="4" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Last%20Name%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="117" y="462" w="200" h="40" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="15"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="39" y="466" w="67" h="-1" measuredW="35" measuredH="21" zOrder="6" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Email%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="117" y="525" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="15">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="31" y="541" w="67" h="-1" measuredW="57" measuredH="21" zOrder="8" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Message%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="435" y="341" w="330" h="160" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="15"/>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::RoundButton" x="450" y="562" w="100" h="100" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Send</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="701" w="1000" h="50" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="15">
+          <controlProperties>
+            <color>0</color>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="39" y="716" w="-1" h="-1" measuredW="327" measuredH="21" zOrder="12" locked="false" isInGroup="15">
+          <controlProperties>
+            <color>16777215</color>
+            <text>%A9%202017%20by%20White%20Sands%20Hotel.%20Proudly%20created%20by%20M.N.K</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Paragraph" x="442" y="376" w="325" h="150" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u200BAsk%20me%20anything%21%20I%27m%20here%20to%20answer%20any%20questions%20you%20have.%A0%0AInfo@mysite.com%20%7C%A0Tel%3A%20123-456-7890%0A%20%0AR.%20Frame%20de%20Mor%E1%2C%20Floor%206%A0%0ARio%20de%20Janeiro%20-%20Ipanema</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
